@@ -77,3 +77,5 @@
 127.0.0.1 - - [10/Aug/2025:23:11:08 +0100] "GET /api/products/1 HTTP/1.1" 200 48 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0"
 127.0.0.1 - - [10/Aug/2025:23:12:48 +0100] "GET /api/orders HTTP/1.1" 200 129 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0"
 127.0.0.1 - - [10/Aug/2025:23:12:49 +0100] "GET /favicon.ico HTTP/1.1" 404 0 "http://localhost:5645/api/orders" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0"
+127.0.0.1 - - [12/Aug/2025:19:18:53 +0100] "GET /api/orders HTTP/1.1" 200 129 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0"
+127.0.0.1 - - [12/Aug/2025:19:18:55 +0100] "GET /favicon.ico HTTP/1.1" 404 0 "http://localhost:5645/api/orders" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0"
